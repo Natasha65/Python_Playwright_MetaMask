@@ -1,0 +1,19 @@
+07/05/2024 11:11:34 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+07/05/2024 11:11:36 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+07/05/2024 11:11:36 PM: INFO: test_login: test_createWallet: Click on I agree
+07/05/2024 11:11:36 PM: INFO: test_login: test_createWallet: Enter the phrase
+07/05/2024 11:11:37 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+07/05/2024 11:11:37 PM: INFO: test_login: test_createWallet: Enter Password
+07/05/2024 11:11:37 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+07/05/2024 11:11:38 PM: INFO: test_login: test_createWallet: Click On checkbox
+07/05/2024 11:11:38 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+07/05/2024 11:11:38 PM: INFO: test_login: test_createWallet: Click On got it 
+07/05/2024 11:11:39 PM: INFO: test_login: test_createWallet: Click On Next
+07/05/2024 11:11:39 PM: INFO: test_login: test_createWallet: Click On Done
+07/05/2024 11:11:39 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+07/05/2024 11:11:40 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+07/05/2024 11:11:41 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+07/05/2024 11:11:54 PM: INFO: test_login: test_createWallet: Click on Next button
+07/05/2024 11:11:56 PM: INFO: test_login: test_createWallet: Click on Connect button
+07/05/2024 11:12:00 PM: INFO: test_login: test_createWallet: Click on Hekla
+07/05/2024 11:12:05 PM: INFO: test_login: test_createWallet: Click on Approve Button

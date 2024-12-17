@@ -1,0 +1,30 @@
+08/05/2024 09:27:45 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+08/05/2024 09:27:45 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+08/05/2024 09:27:46 PM: INFO: test_login: test_createWallet: Click on I agree
+08/05/2024 09:27:47 PM: INFO: test_login: test_createWallet: Enter the phrase
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Enter Password
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Click On checkbox
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+08/05/2024 09:27:48 PM: INFO: test_login: test_createWallet: Click On got it 
+08/05/2024 09:27:49 PM: INFO: test_login: test_createWallet: Click On Next
+08/05/2024 09:27:49 PM: INFO: test_login: test_createWallet: Click On Done
+08/05/2024 09:27:49 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+08/05/2024 09:27:51 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+08/05/2024 09:27:51 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+08/05/2024 09:28:23 PM: INFO: test_login: test_createWallet: Click on Meta Mask Button
+08/05/2024 09:28:30 PM: INFO: test_login: test_createWallet: Click on Next button
+08/05/2024 09:28:31 PM: INFO: test_login: test_createWallet: Click on Connect button
+08/05/2024 09:28:33 PM: INFO: test_login: test_createWallet: Click on Holesky
+08/05/2024 09:28:53 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 09:28:55 PM: INFO: test_login: test_createWallet: Click on switch Network
+08/05/2024 09:28:57 PM: INFO: test_login: test_createWallet: Navigate to Taiko for switch the network
+08/05/2024 09:29:00 PM: INFO: test_login: test_createWallet: Click on Eth
+08/05/2024 09:29:06 PM: INFO: test_login: test_createWallet: Click on Holesky
+08/05/2024 09:29:08 PM: INFO: test_login: test_createWallet: Click on Hekla
+08/05/2024 09:29:15 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 09:29:28 PM: INFO: test_login: test_createWallet: Click on switch Network
+08/05/2024 09:30:05 PM: INFO: test_login: test_createWallet: Navigate to Taiko for network verification
+08/05/2024 09:30:13 PM: INFO: test_login: test_createWallet: Navigate to Hekla Faucet
+08/05/2024 09:30:18 PM: INFO: test_login: test_createWallet: Click on Explorer

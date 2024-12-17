@@ -1,0 +1,26 @@
+08/05/2024 07:41:16 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+08/05/2024 07:41:17 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+08/05/2024 07:41:18 PM: INFO: test_login: test_createWallet: Click on I agree
+08/05/2024 07:41:18 PM: INFO: test_login: test_createWallet: Enter the phrase
+08/05/2024 07:41:19 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+08/05/2024 07:41:19 PM: INFO: test_login: test_createWallet: Enter Password
+08/05/2024 07:41:20 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+08/05/2024 07:41:20 PM: INFO: test_login: test_createWallet: Click On checkbox
+08/05/2024 07:41:20 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+08/05/2024 07:41:20 PM: INFO: test_login: test_createWallet: Click On got it 
+08/05/2024 07:41:21 PM: INFO: test_login: test_createWallet: Click On Next
+08/05/2024 07:41:21 PM: INFO: test_login: test_createWallet: Click On Done
+08/05/2024 07:41:21 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+08/05/2024 07:41:22 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+08/05/2024 07:41:23 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+08/05/2024 07:41:26 PM: INFO: test_login: test_createWallet: Click on Meta Mask Button
+08/05/2024 07:41:34 PM: INFO: test_login: test_createWallet: Click on Next button
+08/05/2024 07:41:34 PM: INFO: test_login: test_createWallet: Click on Connect button
+08/05/2024 07:41:42 PM: INFO: test_login: test_createWallet: Click on Hekla
+08/05/2024 07:41:48 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 07:41:50 PM: INFO: test_login: test_createWallet: Click on switch Network
+08/05/2024 07:41:54 PM: INFO: test_login: test_createWallet: Click on Eth
+08/05/2024 07:41:56 PM: INFO: test_login: test_createWallet: Click on Holesky
+08/05/2024 07:41:57 PM: INFO: test_login: test_createWallet: Click on Hekla
+08/05/2024 07:42:02 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 07:42:05 PM: INFO: test_login: test_createWallet: Click on switch Network

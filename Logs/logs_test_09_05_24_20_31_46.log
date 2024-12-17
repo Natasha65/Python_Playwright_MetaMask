@@ -1,0 +1,47 @@
+09/05/2024 08:31:55 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Launch the Meta Mask to Create a Wallet
+09/05/2024 08:31:56 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Create New wallet
+09/05/2024 08:31:56 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on I agree
+09/05/2024 08:31:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter Password
+09/05/2024 08:31:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter Confirm Password
+09/05/2024 08:31:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On checkbox
+09/05/2024 08:31:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Create a New wallet
+09/05/2024 08:31:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On secure my wallet
+09/05/2024 08:31:58 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Reveal
+09/05/2024 08:31:58 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Copy to Clipboard
+09/05/2024 08:31:58 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Next
+09/05/2024 08:31:58 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter the phrase
+09/05/2024 08:31:59 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Confirm Phrase
+09/05/2024 08:31:59 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On got it 
+09/05/2024 08:31:59 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Next
+09/05/2024 08:31:59 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Done
+09/05/2024 08:31:59 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Not Right Now 
+09/05/2024 08:32:02 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on I Understand Button
+09/05/2024 08:32:02 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Connect Wallet Button
+09/05/2024 08:32:40 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Meta Mask Button
+09/05/2024 08:33:18 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Next button
+09/05/2024 08:33:19 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Connect button
+09/05/2024 08:33:21 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Holesky
+09/05/2024 08:33:26 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on Approve Button
+09/05/2024 08:33:28 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click on switch Network
+09/05/2024 08:33:29 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Navigate to Taiko for switch the network
+09/05/2024 08:33:35 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On got it 
+09/05/2024 08:33:37 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On got it 
+09/05/2024 08:33:38 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On got it 
+09/05/2024 08:33:40 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On got it 
+09/05/2024 08:33:42 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On See portfolio
+09/05/2024 08:33:44 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Account 
+09/05/2024 08:33:46 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Add Accounts 
+09/05/2024 08:33:47 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Import Account 
+09/05/2024 08:33:48 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Private Key 
+09/05/2024 08:33:49 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter Private Key 
+09/05/2024 08:33:50 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Import
+09/05/2024 08:33:51 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Send
+09/05/2024 08:33:54 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Account1
+09/05/2024 08:33:56 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter Amount
+09/05/2024 08:33:57 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Next
+09/05/2024 08:33:58 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Confirm
+09/05/2024 08:34:50 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Transaction is succcessfull
+09/05/2024 08:35:16 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Navigate to Hekla Faucet
+09/05/2024 08:35:21 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Mint
+09/05/2024 08:35:28 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Click On Confirm
+09/05/2024 08:36:08 PM: INFO: test_connectToWallet: test_createWalletAndTransferFunds: Enter Amount

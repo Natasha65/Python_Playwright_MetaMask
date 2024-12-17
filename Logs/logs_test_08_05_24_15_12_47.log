@@ -1,0 +1,4 @@
+08/05/2024 03:12:54 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+08/05/2024 03:12:54 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+08/05/2024 03:12:56 PM: INFO: test_login: test_createWallet: Click on I agree
+08/05/2024 03:12:56 PM: INFO: test_login: test_createWallet: Enter the phrase

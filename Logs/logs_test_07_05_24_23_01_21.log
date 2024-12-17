@@ -1,0 +1,17 @@
+07/05/2024 11:01:32 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+07/05/2024 11:01:33 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+07/05/2024 11:01:33 PM: INFO: test_login: test_createWallet: Click on I agree
+07/05/2024 11:01:33 PM: INFO: test_login: test_createWallet: Enter the phrase
+07/05/2024 11:01:35 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+07/05/2024 11:01:35 PM: INFO: test_login: test_createWallet: Enter Password
+07/05/2024 11:01:36 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+07/05/2024 11:01:36 PM: INFO: test_login: test_createWallet: Click On checkbox
+07/05/2024 11:01:36 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+07/05/2024 11:01:36 PM: INFO: test_login: test_createWallet: Click On got it 
+07/05/2024 11:01:37 PM: INFO: test_login: test_createWallet: Click On Next
+07/05/2024 11:01:37 PM: INFO: test_login: test_createWallet: Click On Done
+07/05/2024 11:01:37 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+07/05/2024 11:01:39 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+07/05/2024 11:01:40 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+07/05/2024 11:01:48 PM: INFO: test_login: test_createWallet: Click on Next button
+07/05/2024 11:01:51 PM: INFO: test_login: test_createWallet: Click on Connect button

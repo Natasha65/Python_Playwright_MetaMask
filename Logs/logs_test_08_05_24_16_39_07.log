@@ -1,0 +1,22 @@
+08/05/2024 04:39:14 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+08/05/2024 04:39:15 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+08/05/2024 04:39:16 PM: INFO: test_login: test_createWallet: Click on I agree
+08/05/2024 04:39:16 PM: INFO: test_login: test_createWallet: Enter the phrase
+08/05/2024 04:39:17 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+08/05/2024 04:39:17 PM: INFO: test_login: test_createWallet: Enter Password
+08/05/2024 04:39:17 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+08/05/2024 04:39:18 PM: INFO: test_login: test_createWallet: Click On checkbox
+08/05/2024 04:39:18 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+08/05/2024 04:39:18 PM: INFO: test_login: test_createWallet: Click On got it 
+08/05/2024 04:39:18 PM: INFO: test_login: test_createWallet: Click On Next
+08/05/2024 04:39:19 PM: INFO: test_login: test_createWallet: Click On Done
+08/05/2024 04:39:19 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+08/05/2024 04:39:21 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+08/05/2024 04:39:21 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+08/05/2024 04:39:31 PM: INFO: test_login: test_createWallet: Click on Next button
+08/05/2024 04:39:31 PM: INFO: test_login: test_createWallet: Click on Connect button
+08/05/2024 04:39:31 PM: INFO: test_login: test_createWallet: Click on Hekla
+08/05/2024 04:39:32 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 04:39:36 PM: INFO: test_login: test_createWallet: Click on switch Network
+08/05/2024 04:39:47 PM: INFO: test_login: test_createWallet: Click on Eth
+08/05/2024 04:39:47 PM: INFO: test_login: test_createWallet: <selenium.webdriver.remote.webelement.WebElement (session="4a5bd4eaf8d61d676b3c3e1568b51fd4", element="f.0BC07722FAB0F1C8D5727EED16D16491.d.5B94FE53D7F5C4E036D328DEA2064C0F.e.26")>

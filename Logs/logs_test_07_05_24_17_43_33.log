@@ -1,0 +1,27 @@
+07/05/2024 05:43:34 PM: INFO: test_login: test_login: Launch the Taiko Browser
+07/05/2024 05:43:35 PM: INFO: test_login: test_login: Click on Connect Wallet Button
+07/05/2024 05:43:35 PM: INFO: test_login: test_login: Enter Password
+07/05/2024 05:44:20 PM: INFO: test_login: test_login: ERROR >>> Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6DD727072+63090]
+	(No symbol) [0x00007FF6DD692CC2]
+	(No symbol) [0x00007FF6DD52EC65]
+	(No symbol) [0x00007FF6DD57499D]
+	(No symbol) [0x00007FF6DD574ADC]
+	(No symbol) [0x00007FF6DD5B5B37]
+	(No symbol) [0x00007FF6DD59701F]
+	(No symbol) [0x00007FF6DD5B3412]
+	(No symbol) [0x00007FF6DD596D83]
+	(No symbol) [0x00007FF6DD5683A8]
+	(No symbol) [0x00007FF6DD569441]
+	GetHandleVerifier [0x00007FF6DDB225CD+4238285]
+	GetHandleVerifier [0x00007FF6DDB5F72D+4488493]
+	GetHandleVerifier [0x00007FF6DDB57A0F+4456463]
+	GetHandleVerifier [0x00007FF6DD8005B6+953270]
+	(No symbol) [0x00007FF6DD69E58F]
+	(No symbol) [0x00007FF6DD699264]
+	(No symbol) [0x00007FF6DD69939B]
+	(No symbol) [0x00007FF6DD689BD4]
+	BaseThreadInitThunk [0x00007FFB1861257D+29]
+	RtlUserThreadStart [0x00007FFB18FCAA48+40]
+

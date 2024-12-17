@@ -1,0 +1,24 @@
+08/05/2024 08:43:34 PM: INFO: test_login: test_createWallet: Launch the Meta Mask to Create a Wallet
+08/05/2024 08:43:35 PM: INFO: test_login: test_createWallet: Click on Import an existing wallet
+08/05/2024 08:43:36 PM: INFO: test_login: test_createWallet: Click on I agree
+08/05/2024 08:43:37 PM: INFO: test_login: test_createWallet: Enter the phrase
+08/05/2024 08:43:39 PM: INFO: test_login: test_createWallet: Click On Confirm Phrase
+08/05/2024 08:43:39 PM: INFO: test_login: test_createWallet: Enter Password
+08/05/2024 08:43:39 PM: INFO: test_login: test_createWallet: Enter Confirm Password
+08/05/2024 08:43:39 PM: INFO: test_login: test_createWallet: Click On checkbox
+08/05/2024 08:43:39 PM: INFO: test_login: test_createWallet: Click On Import my wallet
+08/05/2024 08:43:40 PM: INFO: test_login: test_createWallet: Click On got it 
+08/05/2024 08:43:40 PM: INFO: test_login: test_createWallet: Click On Next
+08/05/2024 08:43:41 PM: INFO: test_login: test_createWallet: Click On Done
+08/05/2024 08:43:41 PM: INFO: test_login: test_createWallet: Click On Not Right Now 
+08/05/2024 08:43:43 PM: INFO: test_login: test_createWallet: Click on I Understand Button
+08/05/2024 08:43:43 PM: INFO: test_login: test_createWallet: Click on Connect Wallet Button
+08/05/2024 08:43:50 PM: INFO: test_login: test_createWallet: Click on Meta Mask Button
+08/05/2024 08:43:58 PM: INFO: test_login: test_createWallet: Click on Next button
+08/05/2024 08:44:00 PM: INFO: test_login: test_createWallet: Click on Connect button
+08/05/2024 08:44:02 PM: INFO: test_login: test_createWallet: Click on Holesky
+08/05/2024 08:44:09 PM: INFO: test_login: test_createWallet: Click on Approve Button
+08/05/2024 08:44:11 PM: INFO: test_login: test_createWallet: Click on switch Network
+08/05/2024 08:44:18 PM: INFO: test_login: test_createWallet: Click on Eth
+08/05/2024 08:44:20 PM: INFO: test_login: test_createWallet: Click on Holesky
+08/05/2024 08:44:24 PM: INFO: test_login: test_createWallet: Click on Hekla
